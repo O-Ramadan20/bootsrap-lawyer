@@ -1,0 +1,27 @@
+body{
+    background-color: #f4eee4;
+}
+nav{
+    background-color: #ebd1a8;
+}
+.nav-link{
+    color: #452b01;
+}
+h1,.stuff,.contact{
+    color: #452b01;
+}
+
+
+.button{
+    background-color: #452b01;
+}
+.section-1{
+    background-color: #ebd1a8;
+}
+section .button,
+i{
+    color: #452b01;
+}
+footer{
+    background-color: #452b01;
+}
